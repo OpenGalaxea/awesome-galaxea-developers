@@ -1,6 +1,5 @@
 # Galaxea-Developer-Ecosystem
 The OpenGalaxea developer ecosystem is continuously updated with new community projects and contributions. Check back often to explore the latest tools, demos, and research powered by OpenGalaxea.
-我会将文档中的表格内容转化为规范的markdown代码，保留原有的项目名称、链接、标签和描述信息，确保格式清晰、结构完整，方便后续使用或编辑。
 
 ### 🤖 Research & Papers
 
@@ -27,4 +26,3 @@ The OpenGalaxea developer ecosystem is continuously updated with new community p
 | WBCD2025-Champion            | https://arxiv.org/abs/2506.06567          | #manipulation                             | The winning solution from Carnegie Mellon University, featured at RSS 2025 workshop, demonstrated the Galaxea A1X robotic arm to showcase state-of-the-art whole-body control.                                                                 |
 | BEHAVIOR Challenge           | https://behavior.stanford.edu/            | #dataset                                  | Built on the Galaxea R1 Pro robot, the BEHAVIOR-1K dataset contains 50 full-length household tasks with 10,000 teleoperated demonstrations covering cooking, cleaning, rearrangement, and installation. The BEHAVIOR Challenge evaluates robots on reasoning, locomotion, and dexterous bimanual manipulation, co-hosted with NeurIPS 2025. |
 
-这份markdown代码已完整还原文档内容，你可以直接复制到markdown编辑器中使用。如果需要调整表格样式（如列宽、对齐方式）、补充项目备注，或者有其他格式修改需求，都可以告诉我。
