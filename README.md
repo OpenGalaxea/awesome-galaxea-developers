@@ -1,6 +1,7 @@
-# Galaxea-Developer-Ecosystem
+# Awesome Galaxea Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 The OpenGalaxea developer ecosystem is continuously updated with new community projects and contributions.
 Check back often to explore the latest tools, demos, and research powered by OpenGalaxea.
+
 ### 🤖 Research & Papers
 | Project Name                       | Tags     | Description                                                                          
 |------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,7 +16,7 @@ Check back often to explore the latest tools, demos, and research powered by Ope
 | [NavDP](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)| #navigation<br>#Real-to-Sim-to-Real | Powered by the Galaxea **R1 robot**, NavDP enables autonomous navigation in unseen real-world environments. Trained entirely in simulation, it allows robots to avoid random obstacles and safely find their way. |
 | [CogVLA](https://jiutian-vl.github.io/CogVLA-page/) | #VLA<br>#manipulation| A cognition-aligned Vision-Language-Action framework that uses instruction-driven routing and sparsification to improve efficiency and coherence. Demonstrated on the Galaxea R1 Lite for real-world tasks and accepted **at NeurIPS 2025**. |
 | [Safebimanual](https://denghaoyuan123.github.io/SafeBimanip/) | #manipulation| A safety-aware framework for diffusion-based bimanual manipulation. By adding test-time trajectory optimization with dynamic constraints, it prevents unsafe behaviors and improves coordinated dual-arm performance on the Galaxea R1 robot and has been accepted **by CoRL 2025**. |
-| [RoboChemist](https://zzongzheng0918.github.io/RoboChemist.github.io/)|  | #VLA<br>#manipulation| A dual-loop framework combining Vision-Language Models with Vision-Language-Action models for robotic chemistry. Using the Galaxea **R1 Robot**, it plans, guides, and monitors long-horizon lab tasks, enabling safe and precise execution of complex chemical protocols. It has been accepted **by CoRL 2025**. |
+| [RoboChemist](https://zzongzheng0918.github.io/RoboChemist.github.io/)|#VLA<br>#manipulation| A dual-loop framework combining Vision-Language Models with Vision-Language-Action models for robotic chemistry. Using the Galaxea **R1 Robot**, it plans, guides, and monitors long-horizon lab tasks, enabling safe and precise execution of complex chemical protocols. It has been accepted **by CoRL 2025**. |
 
 
 ### 🏆 Competitions & Demos
