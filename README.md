@@ -17,7 +17,7 @@ Check back often to explore the latest tools, demos, and research powered by Ope
 | [CogVLA](https://jiutian-vl.github.io/CogVLA-page/) | #VLA<br>#manipulation| A cognition-aligned Vision-Language-Action framework that uses instruction-driven routing and sparsification to improve efficiency and coherence. Demonstrated on the Galaxea **R1 Lite** for real-world tasks and accepted **at NeurIPS 2025**. |
 | [Safebimanual](https://denghaoyuan123.github.io/SafeBimanip/) | #manipulation| A safety-aware framework for diffusion-based bimanual manipulation. By adding test-time trajectory optimization with dynamic constraints, it prevents unsafe behaviors and improves coordinated dual-arm performance on the Galaxea **R1 robot** and has been accepted **by CoRL 2025**. |
 | [RoboChemist](https://zzongzheng0918.github.io/RoboChemist.github.io/)|#VLA<br>#manipulation| A dual-loop framework combining Vision-Language Models with Vision-Language-Action models for robotic chemistry. Using the Galaxea **R1 Robot**, it plans, guides, and monitors long-horizon lab tasks, enabling safe and precise execution of complex chemical protocols. It has been accepted **by CoRL 2025**. |
-
+| [XRoboToolkit](https://xr-robotics.github.io/)|#robot teleoperation<br>#manipulation| XRoboToolkit is an OpenXR-based framework for robot teleoperation in extended reality. It provides low-latency feedback, precise motion control, and flexible tracking across devices. The system is fully compatible with the Galaxea **R1 Lite** and other platforms, enabling scalable and high-quality demonstration data collection for Vision-Language-Action models. |
 
 ### 🏆 Competitions & Demos
 
