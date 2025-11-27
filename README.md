@@ -25,6 +25,7 @@ Check back often to explore the latest tools, demos, and research powered by Ope
 | [UNICOD](https://arxiv.org/abs/2510.10642)| #simulation #mobile manipulation |Trained on diverse datasets including **Galaxea Open-World** and its VQA data, integrating discrete and continuous representations via two-stage learning to achieve SOTA in simulation and real-world scenarios.|
 | [FASTER](https://arxiv.org/abs/2510.13375)| #VLA  #mobile manipulation |FASTer VLA model to optimize autoregressive VLA performance and inference efficiency; Galaxea **R1 Lite** hardware is used for real-world task testing to verify the model's actual operation performance.|
 | [Depth VLA](https://arxiv.org/abs/2510.13375)| #VLA #mobile manipulation |DepthVLA integrates a depth expert, implemented on the Galaxea **R1 Lite** , significantly enhancing the robot's spatial reasoning and operational accuracy.|
+| [Robocoin](https://flagopen.github.io/RoboCOIN/)| #dataset|RoboCOIN is currently the world’s largest and most comprehensive real-world bimanual robot manipulation dataset. It is collected across diverse real-world environments using 15 heterogeneous robot platforms, and contains 180,000+ real trajectories and 421 tasks. The dataset integrates commonly used platforms from research, industry, and education — including mobile manipulation systems such as the Galaxea **R1 Lite**, which were used to collect a wide range of everyday interaction behaviors.|
 
 ### 🏆 Competitions & Demos
 
