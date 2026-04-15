@@ -34,6 +34,9 @@ Check back often to explore the latest tools, demos, and research powered by Ope
 | [ViTaS](https://skyrainwind.github.io/ViTaS/index.html)| #manipulation|ViTaS, developed by researchers from Shanghai Qi Zhi Institute, Harbin Institute of Technology, Tsinghua University, The University of Hong Kong, and Carnegie Mellon University, is a visuo-tactile representation learning framework. It uses Soft Fusion Contrastive Learning and a CVAE to handle self-occluded manipulation scenarios, and was successfully deployed on the **Galaxea R1**.|
 | [EgoScale](https://research.nvidia.com/labs/gear/egoscale/)| #manipulation|EgoScale, developed by NVIDIA GEAR Lab, introduces a Vision-Language-Action (VLA) policy pretrained on over 20,000 hours of egocentric human video data. It utilizes an aligned human-robot mid-training stage to bridge embodiment gaps. With the **Galaxea R1 Pro** as its core validation platform, it achieves strong generalization for complex dexterous manipulation tasks.|
 
+
+
+
 ### 🏆 Competitions & Demos
 
 | Competition/Demo Name       | Tags                             | Description                                                                                                                                                                                         
